@@ -1,0 +1,18 @@
+{
+  "name": "khatmah-hafs-qcf4",
+  "owner": "LhacenMed",
+  "riwaya": "hafs",
+  "feature": "qcf4",
+  "version": "1.0.0",
+  "pages": 604,
+  "fontCount": 48,
+  "basePath": ".",
+  "fontsPath": "fonts/",
+  "pagesPath": "pages/",
+  "pageFilePattern": "pages/%03d.json",
+  "fontFilePattern": "fonts/{fontName}.ttf",
+  "cdn": {
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/LhacenMed/khatmah-hafs-qcf4@v1.0.0",
+    "raw": "https://raw.githubusercontent.com/LhacenMed/khatmah-hafs-qcf4/v1.0.0"
+  }
+}
